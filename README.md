@@ -36,4 +36,4 @@ int main()
 
 
 ## Result:
-*Write your result here*
+Thus the program for finding the area of a rectanlge is written and the output is verified.
